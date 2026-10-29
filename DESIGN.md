@@ -1,4 +1,3 @@
-# Model Update & Retraining Design
 
 ## Question
 > **You receive 1,000 new labelled samples after deployment. Would your deployed model automatically retrain itself? Design the update process.**
